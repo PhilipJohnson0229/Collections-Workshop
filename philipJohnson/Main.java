@@ -35,7 +35,7 @@ public class Main {
 
         sortList(seatCopy);
         System.out.println("Arranging new seat copy.");
-        printList(seatCopy);;
+        printList(seatCopy);
     }
 
     public static void printList(List<Theatre.Seat> list)
